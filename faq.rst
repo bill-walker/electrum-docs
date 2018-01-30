@@ -27,7 +27,7 @@ Example:
 
 .. code-block:: none
 
-   constant forest adore false green weave stop guy fur freeze giggle clock
+   constant forest adore false green weave stop guy fur freeze giggle green
 
 Your wallet can be entirely recovered from its seed. For this, select
 the "restore wallet" option in the startup.
